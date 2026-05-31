@@ -1,6 +1,6 @@
 # ios_helper
 
-<video src="https://github.com/BlackTeemo/iOS-FPS-Monitor/issues/1#issue-4557732647" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/e895d2bf-904e-497a-abe5-52f66a8120c1" controls width="100%"></video>
 一个用于 iOS 设备性能采集与分析的桌面工具，基于 PyQt5 + matplotlib 编写。
 
 > 本项目依赖 [ios_device](https://github.com/your-repo/ios_device) 项目，请确保已正确配置 ios_device 环境。
