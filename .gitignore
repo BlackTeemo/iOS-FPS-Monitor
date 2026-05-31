@@ -1,0 +1,14 @@
+# Logs
+*.log
+log*.txt
+*.performance
+performance.txt
+icon*
+# Python
+__pycache__/
+*.pyc
+test*.py
+zhenlv*.txt
+# Jupyter
+.ipynb_checkpoints/
+
